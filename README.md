@@ -1,3 +1,5 @@
+Cart management system that tracks customer carts. Such system will be used by ecommerce website to manage inventory and generate user statistics.
+
 # Instructions for the assignment
 1. Clone this repository on your machine.
 1. Use your IDE of choice to complete the assignment.
